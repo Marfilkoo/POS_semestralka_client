@@ -1,0 +1,3 @@
+D:/03_Vysoká škola/3. ročník Bc/05_Zimný semester/Princípy operačných systémov/Sockety/socket_client/cmake-build-debug_vs/CMakeFiles/socket_clients.dir
+D:/03_Vysoká škola/3. ročník Bc/05_Zimný semester/Princípy operačných systémov/Sockety/socket_client/cmake-build-debug_vs/CMakeFiles/edit_cache.dir
+D:/03_Vysoká škola/3. ročník Bc/05_Zimný semester/Princípy operačných systémov/Sockety/socket_client/cmake-build-debug_vs/CMakeFiles/rebuild_cache.dir

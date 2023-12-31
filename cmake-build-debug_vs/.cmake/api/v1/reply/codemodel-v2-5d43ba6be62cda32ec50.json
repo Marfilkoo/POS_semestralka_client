@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "socket_clients",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "socket_clients::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket_clients-Debug-eabe312039f844f19317.json",
+					"name" : "socket_clients",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/03_Vysok\u00e1 \u0161kola/3. ro\u010dn\u00edk Bc/05_Zimn\u00fd semester/Princ\u00edpy opera\u010dn\u00fdch syst\u00e9mov/Sockety/socket_client/cmake-build-debug_vs",
+		"source" : "D:/03_Vysok\u00e1 \u0161kola/3. ro\u010dn\u00edk Bc/05_Zimn\u00fd semester/Princ\u00edpy opera\u010dn\u00fdch syst\u00e9mov/Sockety/socket_client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

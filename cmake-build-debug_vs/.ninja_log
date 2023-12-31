@@ -1,0 +1,4 @@
+# ninja log v5
+24	1354	7256521080401158	CMakeFiles/socket_clients.dir/my_socket.cpp.obj	913e827f9dd35a41
+1	1509	7256532012083398	CMakeFiles/socket_clients.dir/main.cpp.obj	d6519f7dcb62b2c1
+1510	1786	7256532014423366	socket_clients.exe	80e9e1da5d4d2095
